@@ -16,10 +16,12 @@ CRC Cards https://docs.google.com/document/d/1Zb5OgvVW7529-XsGlf0Bj-RwPXDNhBOhTo
 <h2> Mercedes - </h2>
 Animations, AI (movements - left/right/up/down, death to bombs, touching player, points from exploding AI, mobs upgrading depending on stage)
 
+<h2> Jazmin - </h2>
+
 <h2> Monica - </h2>
 Sound fx/start menu, transitions and end scene 
 
-<h2> Jazmin - </h2>
+
 
 
 # Unassigned
