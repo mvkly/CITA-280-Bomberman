@@ -5,12 +5,10 @@ GROUP PROJECT based on Bomberman (NES) using Unity and C#
 Mercedes Banker, Jazmin Brown, Monica Ly
 
 
-
 # NOTE: upload just the ASSETS folder or one folder at a time
 You will not be able to drag and drop the entire Unity project folder onto GitHub
 
 <b> There's a limit to how many files you can upload at a time  </b>
-
 
 
 # Links
@@ -19,7 +17,6 @@ GDD https://docs.google.com/document/d/1NcjtJpiVwKHtPS49zqZhbzqqyRaA7dSZsiGMDPDD
 CRC Cards https://docs.google.com/document/d/1Zb5OgvVW7529-XsGlf0Bj-RwPXDNhBOhTojgURNWLHE/edit?usp=sharing
 
 Sprite references https://www.spriters-resource.com/nes/bomberman/
-
 
 
 # Group Roles & Designated Tasks
