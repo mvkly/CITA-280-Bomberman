@@ -18,6 +18,7 @@ Monica - Sound fx/start menu, transitions and end scene
 
 Jazmin - 
 
+
 Unassigned
 
 1. Player (movements - left/right/up/down, placing bombs - connect to bombs)
