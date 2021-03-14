@@ -12,7 +12,7 @@ GDD https://docs.google.com/document/d/1NcjtJpiVwKHtPS49zqZhbzqqyRaA7dSZsiGMDPDD
 CRC Cards https://docs.google.com/document/d/1Zb5OgvVW7529-XsGlf0Bj-RwPXDNhBOhTojgURNWLHE/edit?usp=sharing
 
 # Group Roles/Designated Tasks
-# Mercedes - 
+<h2> Mercedes - </h2>
 Animations, AI (movements - left/right/up/down, death to bombs, touching player, points from exploding AI, mobs upgrading depending on stage)
 
 # Monica - 
