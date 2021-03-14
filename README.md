@@ -1,8 +1,8 @@
 
 <html>
-</h1> CITA-280-Bomberman </h1>
-<p> GROUP PROJECT based on Bomberman (NES) using Unity and C#
-Mercedes Banker, Jazmin Brown, Monica Ly </p>
+# CITA-280-Bomberman
+GROUP PROJECT based on Bomberman (NES) using Unity and C#
+Mercedes Banker, Jazmin Brown, Monica Ly
 
 
 # NOTE: you will not be able to drag and drop the entire Unity project folder onto GitHub
