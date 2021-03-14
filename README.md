@@ -65,7 +65,7 @@ Stage completed, next stage noise
 Screen Manager
 <ul> 
 
-UI
+UI (lives, timer, score, start menu, end menu)
 
 Level-to-level transitions
 </ul>
@@ -77,7 +77,7 @@ Manages game actions
 
 Start game
 
-Stage 
+Current stage 
 </ul> 
 
 Connected to:
