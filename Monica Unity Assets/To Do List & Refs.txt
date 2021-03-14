@@ -1,0 +1,24 @@
+https://docs.unity3d.com/560/Documentation/Manual/class-Font.html
+https://answers.unity.com/questions/59753/importing-custom-fonts-into-unity.html
+
+sprites
+https://www.spriters-resource.com/nes/bomberman/
+
+music
+https://downloads.khinsider.com/game-soundtracks/album/bomberman-nes
+
+
+https://answers.unity.com/questions/347443/the-referenced-script-on-this-behaviour-is-missing-2.html
+https://stackoverflow.com/questions/54969972/unity-the-referenced-script-unknown-on-this-behaviour-is-missing
+had to start over completely :(
+
+
+
+Monica TO DO: 
+Create transitions
+Create UI (lives, timer, score)
+Create end scene
+Need to keep track of stage
+CurrentStageCount ++
+Connect scenes to be able to swap between scenes
+Add button functionality (only prints to debug log for testing at the moment)
