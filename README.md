@@ -1,7 +1,7 @@
-
-<html>
 # CITA-280-Bomberman
+
 GROUP PROJECT based on Bomberman (NES) using Unity and C#
+
 Mercedes Banker, Jazmin Brown, Monica Ly
 
 
@@ -101,5 +101,3 @@ Misc
 Boosts in later stages (powerups like speed)
 
 UI (Timer, score, lives left, stages)
-
-</html>
