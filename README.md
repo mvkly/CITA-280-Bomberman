@@ -2,10 +2,12 @@
 GROUP PROJECT based on Bomberman (NES) using Unity and C#
 Mercedes Banker, Jazmin Brown, Monica Ly
 
+
 # NOTE: you will not be able to drag and drop the entire Unity project folder onto GitHub
 There's a limit to how many files you can upload at a time 
 
 <b> Suggestion: upload just the assets folder or one folder at a time </b>
+
 
 # Links
 GDD https://docs.google.com/document/d/1NcjtJpiVwKHtPS49zqZhbzqqyRaA7dSZsiGMDPDDKOc/edit?usp=sharing 
@@ -37,7 +39,10 @@ Deals damage to player if contact is made
 Points obtained from each enemy (depending on the enemy, amount can vary)
 </ul>
 
+
+
 <h2> Jazmin - </h2>
+
 
 <h2> Monica - Audio Manage, Screen Manager, & Game Manager </h2>
 
@@ -87,6 +92,7 @@ Time Manager
 1. Player (movements - left/right/up/down, placing bombs - connect to bombs)
 
 3. Bombs (explosions - radius of explosions, timers, bricks that BLOCK the explosions, bricks that BREAK from explosions)
+
 
 Misc
 
