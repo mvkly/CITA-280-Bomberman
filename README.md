@@ -18,7 +18,7 @@ Animations, AI (movements - left/right/up/down, death to bombs, touching player,
 
 <h2> Jazmin - </h2>
 
-<h2> Monica - </h2>
+<h2> Monica - Audio Manager, Screen Manager </h2>
 Sound fx/start menu, transitions and end scene 
 
 
