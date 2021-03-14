@@ -40,10 +40,27 @@ Deals damage to player if contact is made
 
 Points obtained from each enemy (depending on the enemy, amount can vary)
 </ul>
+UI
+<ul>
+  Graphics
+  </ul>
+UX
+<ul>
+  Scripts for player input
+  </ul>
+  
 
 
 
 <h2> Jazmin - </h2>
+Bomb Mechanics
+<ul> Create
+Blast radius (radius can also be affected by power ups)
+Destroys soft blocks
+Kills enemies
+Can kill player as well if player is within radius
+Fire FX
+</ul>
 
 
 <h2> Monica - Audio Manage, Screen Manager, & Game Manager </h2>
