@@ -12,14 +12,16 @@ GDD https://docs.google.com/document/d/1NcjtJpiVwKHtPS49zqZhbzqqyRaA7dSZsiGMDPDD
 CRC Cards https://docs.google.com/document/d/1Zb5OgvVW7529-XsGlf0Bj-RwPXDNhBOhTojgURNWLHE/edit?usp=sharing
 
 # Group Roles/Designated Tasks
-Mercedes - Animations, AI (movements - left/right/up/down, death to bombs, touching player, points from exploding AI, mobs upgrading depending on stage)
+# Mercedes - 
+Animations, AI (movements - left/right/up/down, death to bombs, touching player, points from exploding AI, mobs upgrading depending on stage)
 
-Monica - Sound fx/start menu, transitions and end scene 
+# Monica - 
+Sound fx/start menu, transitions and end scene 
 
-Jazmin - 
+# Jazmin - 
 
 
-Unassigned
+# Unassigned
 
 1. Player (movements - left/right/up/down, placing bombs - connect to bombs)
 
