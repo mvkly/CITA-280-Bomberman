@@ -17,7 +17,7 @@ CRC Cards https://docs.google.com/document/d/1Zb5OgvVW7529-XsGlf0Bj-RwPXDNhBOhTo
 Sprite references https://www.spriters-resource.com/nes/bomberman/
 
 
-# Group Roles/Designated Tasks
+# Group Roles & Designated Tasks
 <h2> Mercedes - Animation & AI Manager </h2>
 
 Animations, AI (movements - left/right/up/down, death to bombs, touching player, points from exploding AI, mobs upgrading depending on stage)
