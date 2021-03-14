@@ -58,13 +58,9 @@ Bomb Mechanics
   Create
 
 Blast radius (radius can also be affected by power ups)
-
 Destroys soft blocks
-
 Kills enemies
-
 Can kill player as well if player is within radius
-
 Fire FX
 </ul>
 
