@@ -22,19 +22,19 @@ Sprite references https://www.spriters-resource.com/nes/bomberman/
 # Group Roles & Designated Tasks
 <h2> Mercedes - Animation & AI Manager </h2>
 
-Animations, AI (movements - left/right/up/down, death to bombs, touching player, points from exploding AI, mobs upgrading depending on stage)
+Animations, AI 
 
 Animation Manager 
 <ul>
   Sprites/movements for enemies, player, explosions/bombs
   </ul>
   
-Enemies
+Enemies (AI)
 <ul>
 
 Create
 
-Movement (AI)
+Movement (AI movements - left/right/up/down, death to bombs, touching player, points from exploding AI, mobs upgrading depending on stage)
 
 Deals damage to player if contact is made
 
