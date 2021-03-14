@@ -14,47 +14,65 @@ CRC Cards https://docs.google.com/document/d/1Zb5OgvVW7529-XsGlf0Bj-RwPXDNhBOhTo
 
 # Group Roles/Designated Tasks
 <h2> Mercedes - Animation & AI Manager </h2>
+
 Animations, AI (movements - left/right/up/down, death to bombs, touching player, points from exploding AI, mobs upgrading depending on stage)
 
 Animation Manager 
 <ul>
-  sprites/movements for enemies, player, explosions/bombs
+  Sprites/movements for enemies, player, explosions/bombs
   </ul>
   
 Enemies
 <ul>
+
 Create
+
 Movement (AI)
+
 Deals damage to player if contact is made
+
 Points obtained from each enemy (depending on the enemy, amount can vary)
 </ul>
 
 <h2> Jazmin - </h2>
 
 <h2> Monica - Audio Manage, Screen Manager, & Game Manager </h2>
+
 Sound fx/start menu, transitions and end scene 
 
 Audio Manager
 <ul>
+
 BGM
+
 Sound FX
+
 Walking, bombs exploding, bumping into blocks, achievement noises(?)
+
 Stage completed, next stage noise
 </ul>
 
 Screen Manager
 <ul> 
+
 UI
+
 Level-to-level transitions
 </ul>
 
 Game Manager
 <ul>
+
 Manages game actions
+
 Start game
+
 Stage 
+
 Connected to:
+
 Audio Manager
+
 Time Manager
 </ul>
 
