@@ -1,0 +1,19 @@
+1. Player (movements - left/right/up/down, placing bombs - connect to bombs)
+3. Bombs (explosions - radius of explosions, timers, bricks that BLOCK the explosions, bricks that BREAK from explosions)
+
+Misc
+Boosts in later stages (powerups like speed)
+UI (Timer, score, lives left, stages)
+
+Mercedes - Animations, AI (movements - left/right/up/down, death to bombs, touching player, points from exploding AI, mobs upgrading depending on stage)
+Monica - Sound fx/start menu, transitions and end scene 
+Jazmin - start menu
+
+https://docs.unity3d.com/560/Documentation/Manual/class-Font.html
+https://answers.unity.com/questions/59753/importing-custom-fonts-into-unity.html
+
+sprites
+https://www.spriters-resource.com/nes/bomberman/
+
+music
+https://downloads.khinsider.com/game-soundtracks/album/bomberman-nes
