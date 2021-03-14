@@ -1,6 +1,8 @@
-# CITA-280-Bomberman
-GROUP PROJECT based on Bomberman (NES) using Unity and C#
-Mercedes Banker, Jazmin Brown, Monica Ly
+
+<html>
+</h1> CITA-280-Bomberman </h1>
+<p> GROUP PROJECT based on Bomberman (NES) using Unity and C#
+Mercedes Banker, Jazmin Brown, Monica Ly </p>
 
 
 # NOTE: you will not be able to drag and drop the entire Unity project folder onto GitHub
@@ -99,3 +101,5 @@ Misc
 Boosts in later stages (powerups like speed)
 
 UI (Timer, score, lives left, stages)
+
+</html>
