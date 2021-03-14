@@ -12,6 +12,9 @@ GDD https://docs.google.com/document/d/1NcjtJpiVwKHtPS49zqZhbzqqyRaA7dSZsiGMDPDD
 
 CRC Cards https://docs.google.com/document/d/1Zb5OgvVW7529-XsGlf0Bj-RwPXDNhBOhTojgURNWLHE/edit?usp=sharing
 
+Sprite references https://www.spriters-resource.com/nes/bomberman/
+
+
 # Group Roles/Designated Tasks
 <h2> Mercedes - Animation & AI Manager </h2>
 
@@ -68,9 +71,10 @@ Manages game actions
 Start game
 
 Stage 
+</ul> 
 
 Connected to:
-
+<ul>
 Audio Manager
 
 Time Manager
