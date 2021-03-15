@@ -14,11 +14,11 @@ using TMPro;
  * Quits game on clicking quit
  */
 
-public class GameManager : MonoBehaviour 
+public class NewGameManager : MonoBehaviour
 {
     // ==== VARIABLES ====
     // ---- TRANSITIONS (SCENES) ----
-    public static int stage = 0; // init stage counter, counting the actual LEVEL that the player is on
+    public int stage = 0; // init stage counter, counting the actual LEVEL that the player is on
     public static int sceneCounter = 0; // init scene counter, different amount from stages
 
     // **can use stage as the var to determine if game is over. if stage is updated & stage > maxStage for example
@@ -29,20 +29,8 @@ public class GameManager : MonoBehaviour
     // public float secondsLeftInStage;
     // add lives, score
 
-    // ---- TIME ----
-    // https://docs.unity3d.com/ScriptReference/Time.html
-    // https://docs.unity3d.com/ScriptReference/Time-deltaTime.html
-    // timer adds deltaTime each frame
-    public static float deltaTime;
-    public float transitTimer = 0.0f; // count s for transition
 
-    // timeScale
-    // https://docs.unity3d.com/ScriptReference/Time-timeScale.html
-    // When timeScale is set to zero the game is basically paused if all your functions are frame rate independent.
-    // public static float Time.timeScale; // When timeScale is 1.0 time passes as fast as realtime
-    // Time.timeScale = 1.0f;
 
-    public float transitDuration = 4.0f; // 4s duration
 
     // private IEnumerator coroutine; // https://docs.unity3d.com/ScriptReference/MonoBehaviour.StartCoroutine.html
 
@@ -50,18 +38,14 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
-        
+
+
     }
 
 
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(transitTimer);
-        // transitTimer += Time.deltaTime; // https://docs.unity3d.com/ScriptReference/Time-deltaTime.html // time
-
-        //  Debug.Log("Scene: " + sceneCounter);
 
         // scene 0 = title, scene 1 = transition after start, scene 2 = level 1, scene 3 = transition
         // % 2 = 0 for e scenes, excluding main menu scene
@@ -78,19 +62,19 @@ public class GameManager : MonoBehaviour
             Debug.Log("Transition scene");
             // StartCoroutine(TimeChangedScene());
             // TimeChangedScene();
-            
+
         }
-       
+
     }
 
 
-   /* IEnumerator TimeChangedScene()
-    {
-        print(Time.time + " seconds");
-        yield return new WaitForSeconds(4.0f);
-        sceneCount += 1;
-        UpdateScene();
-    }*/
+    /* IEnumerator TimeChangedScene()
+     {
+         print(Time.time + " seconds");
+         yield return new WaitForSeconds(4.0f);
+         sceneCount += 1;
+         UpdateScene();
+     }*/
 
     public void OnStartClicked() // when START button on menu is clicked
     {
@@ -100,7 +84,7 @@ public class GameManager : MonoBehaviour
         UpdateScene(); // call sceneupdater
     }
 
-    public void OnQuitPressed() 
+    public void OnQuitPressed()
     {
         // doesn't show as an option in button drop down for On Click () with private, declared public instead
         Debug.Log("Quitting...");
@@ -120,17 +104,17 @@ public class GameManager : MonoBehaviour
     {
 
         // transitTimer = 0.0f; // reset timer for new scene
-       
+
 
         // if stage changes, go to stage transition 
         // stage transition shows the following: 
         // ("Stage: " + stage)
         // stageText.text = "Stage: " + stage; // can't change to custom Press Start 2P front with regular text, using TMP instead
 
-       
-        stageTextTMP.text = "Stage: " + stage; 
-        
-       
+
+        stageTextTMP.text = "Stage: " + stage;
+
+
         Debug.Log("Loading scene...");
         Debug.Log("Scene: " + sceneCounter + "DisplayTransitScene");
         // *stage transition lasts specific amount of time (music duration)
@@ -140,14 +124,14 @@ public class GameManager : MonoBehaviour
 
         // StartCoroutine(TimeChangedScene());
 
-     /*  if (transitTimer > transitDuration) // boolean not working
-            {
-                Debug.Log("Transit Timer" + transitTimer);
-                sceneCounter += 1; // increment scene to change to next scene
-                UpdateScene(); // call function to transition
+        /*  if (transitTimer > transitDuration) // boolean not working
+               {
+                   Debug.Log("Transit Timer" + transitTimer);
+                   sceneCounter += 1; // increment scene to change to next scene
+                   UpdateScene(); // call function to transition
 
 
-            }*/
+               }*/
 
     }
 
