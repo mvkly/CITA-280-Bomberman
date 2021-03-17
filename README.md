@@ -5,7 +5,8 @@ GROUP PROJECT based on Bomberman (NES) using Unity and C#
 Mercedes Banker, Jazmin Brown, Monica Ly
 
 
-# NOTE: upload just the ASSETS folder, one folder at a time, OR a UNITYPACKAGE (most efficient) to share files
+# NOTE: upload UNITYPACKAGE (most efficient) to share files for combining
+# NOTE: upload just the ASSETS folder or one folder at a time
 You will not be able to drag and drop the entire Unity project folder onto GitHub
 
 <b> There's a limit to how many files you can upload at a time  </b>
