@@ -21,7 +21,7 @@ Sprite references https://www.spriters-resource.com/nes/bomberman/
 
 
 # Group Roles & Designated Tasks
-<h2> Mercedes - Animation & AI Manager </h2>
+<h2> Mercedes - Animation & AI Manager, Bomb Mechanics </h2>
 
 Animations, AI 
 
@@ -51,13 +51,8 @@ UX
   </ul>
   
 
-
-
-<h2> Jazmin - </h2>
-Bomb Mechanics
-<ul> 
-Create
-
+  Bombs 
+  <ul> 
 Blast radius (radius can also be affected by power ups)
 
 Destroys soft blocks
@@ -67,6 +62,14 @@ Kills enemies
 Can kill player as well if player is within radius
 
 Fire FX
+</ul>
+
+
+<h2> Jazmin - </h2>
+
+<ul> 
+perimeter / wall surrounding game 
+  
 </ul>
 
 
